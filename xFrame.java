@@ -2,13 +2,22 @@ public class xFrame extends JFrame{
 	
 		JMenu fileMenu
 		JMenuItem fileMenu_New,fileMenu_Open,fileMenu_Save,fileMenu_SaveAs,fileMenu_PageSetUp,fileMenu_Print,fileMenu_Exit;
-		JButton fileMenu_New, fileMenu_Open, fileMenu_Save
+		JButton fileMenu_New, fileMenu_Open, fileMenu_Save;
 		
 		boolean save{}
 		boolean saveas{}
 		void openfile{}
 		
+		JButton zoom_In, zoom_Out;
+		JButoon rotate_Left, rotate_Right;
 		
+		public void zoom{
+		
+		}
+		
+		public void rotate{
+			
+		}
 		
 		editMenu
 		JMenuItem editMenu_Undo,editMenu_Cut,editMenu_Copy,editMenu_Paste,editMenu_Delete,editMenu_Find,editMenu_FindNext,editMenu_Replace,editMenu_GoTo,editMenu_SelectAll,editMenu_TimeDate;
@@ -34,6 +43,10 @@ public class xFrame extends JFrame{
 		
 		//undo
 		UndoManager undo;
+		JButton undo;
+		public void undo{
+		
+		}
 		
 		public xFrame{
 			JMenuBar menuBar=new JMenuBar();
@@ -71,14 +84,7 @@ public class xFrame extends JFrame{
 		public void pagenext{}
 		puclic void pagelink(int n){}
 		
-		public void zoom{
-		
-		}
-		
-		public void rotate{
 			
-		}
-		
 		public void actionperformed {
 			
 		}

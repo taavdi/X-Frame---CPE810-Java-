@@ -24,8 +24,6 @@ public class xFrame extends JFrame{
 		viewMenu
 		viewMenu_Status;
 		
-		helpMenu
-		JMenuItem helpMenu_HelpTopics,helpMenu_AboutNotepad;
 		/************************************************************************************/
 		
 		

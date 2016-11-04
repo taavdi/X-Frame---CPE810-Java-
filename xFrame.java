@@ -1,4 +1,4 @@
-public class xFrame extends JFrame{
+public class xFrame extends JFrame{		// main class that will enclose other methods
 	
 		JMenu fileMenu
 		JMenuItem fileMenu_New,fileMenu_Open,fileMenu_Save,fileMenu_SaveAs,fileMenu_PageSetUp,fileMenu_Print,fileMenu_Exit;

@@ -2,6 +2,10 @@
 	@AUTHOR: LeiTang, ChintanPatel, SihanWang
 */
 
+
+/*
+	Initiation of the Frame
+*/
 public class xFrame extends JFrame{		// main class that will enclose other methods
 	
 		JMenu fileMenu
@@ -85,7 +89,7 @@ public class xFrame extends JFrame{		// main class that will enclose other metho
 			
 		}
 				
-		public void pagenext{}
+		public void pageNext{}
 		public void pageLink(int n){}
 		
 			

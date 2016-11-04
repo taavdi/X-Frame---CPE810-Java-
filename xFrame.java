@@ -1,3 +1,20 @@
+
+/*    Just a few notes from the professor for reference.
+
+1)	add Text
+2)	goto
+3)	set Color
+4)	set Style
+5)	draw (graphics g)
+6)	add Image
+7)	set Font
+8)	set Boundary
+9)	Post scripts
+10)	freetype
+11)	character spacing
+
+*/
+
 public class xFrame extends JFrame{		// main class that will enclose other methods
 	
 		JMenu fileMenu

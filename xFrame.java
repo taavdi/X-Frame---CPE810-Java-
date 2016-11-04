@@ -5,8 +5,8 @@ public class xFrame extends JFrame{		// main class that will enclose other metho
 		JButton fileMenu_New, fileMenu_Open, fileMenu_Save;
 		
 		boolean save{}			// Save if condition true
-		boolean saveas{}		// SaveAs if condition true
-		void openfile{}			// open file if true
+		boolean saveAs{}		// SaveAs if condition true
+		void openFile{}			// open file if true
 		
 		JButton zoom_In, zoom_Out;
 		JButoon rotate_Left, rotate_Right;
@@ -57,11 +57,11 @@ public class xFrame extends JFrame{		// main class that will enclose other metho
 			
 		}
 		
-		public void checkmenuItem{
+		public void checkMenuItem{
 			//check if user have select the content or not
 		}
 		
-		public void exitwindow{
+		public void exitWindow{
 			//check if user have save text or not, or even cancel
 		}
 		
@@ -82,7 +82,7 @@ public class xFrame extends JFrame{		// main class that will enclose other metho
 		}
 				
 		public void pagenext{}
-		puclic void pagelink(int n){}
+		public void pageLink(int n){}
 		
 			
 		public void actionperformed {

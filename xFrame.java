@@ -4,9 +4,9 @@ public class xFrame extends JFrame{		// main class that will enclose other metho
 		JMenuItem fileMenu_New,fileMenu_Open,fileMenu_Save,fileMenu_SaveAs,fileMenu_PageSetUp,fileMenu_Print,fileMenu_Exit;
 		JButton fileMenu_New, fileMenu_Open, fileMenu_Save;
 		
-		boolean save{}
-		boolean saveas{}
-		void openfile{}
+		boolean save{}			// Save if condition true
+		boolean saveas{}		// SaveAs if condition true
+		void openfile{}			// open file if true
 		
 		JButton zoom_In, zoom_Out;
 		JButoon rotate_Left, rotate_Right;

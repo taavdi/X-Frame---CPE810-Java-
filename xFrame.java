@@ -1,3 +1,7 @@
+/*
+	@AUTHOR: LeiTang, ChintanPatel, SihanWang
+*/
+
 public class xFrame extends JFrame{		// main class that will enclose other methods
 	
 		JMenu fileMenu

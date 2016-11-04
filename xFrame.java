@@ -10,6 +10,9 @@
 7)	set Font
 8)	set Boundary
 9)	Post scripts
+10)	freetype
+11)	character spacing
+
 */
 
 public class xFrame extends JFrame{		// main class that will enclose other methods
